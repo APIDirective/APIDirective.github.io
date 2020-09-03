@@ -11,11 +11,11 @@
 
 ## Entity Recognization
 
-  ### Valid Annotation Data for Entity Recognization 
-  - [valid annotation data](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/valid.json). The annotation data for entity recognization without negative data. 
+### Valid Annotation Data for Entity Recognization 
+- [valid annotation data](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/valid.json). The annotation data for entity recognization without negative data. 
 
-  ### Entity Recognization Data By Auto Extension
-  - [auto extension data](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/train_data.json). The training data for entity recognization extended automatically. 
+### Entity Recognization Data By Auto Extension
+- [auto extension data](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/train_data.json). The training data for entity recognization extended automatically. 
 
 ## Entity Linking
 - [sentence pattern](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_linking/sentence_pattern.xlsx). Sentence pattern. 
