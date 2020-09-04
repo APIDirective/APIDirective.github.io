@@ -27,4 +27,4 @@ are different, one of the authors will join and resolve the conflict using the m
 - [51 linguistic patterns for conditional Structure Parsing](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_linking/sentence_pattern.xlsx). Sentence pattern. 
 
 ## Argument Parsing
-- [manually annotate 246 API related arguments for training SVM model](https://github.com/APIDirective/APIDirective.github.io/blob/master/manually_annotate_246_API_related_arguments_for_training_SVM_model.json). 
+- [manually annotate 246 API related arguments for training SVM model](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_linking/manually_annotate_246_API_related_arguments_for_training_SVM_model.json). 
