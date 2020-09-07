@@ -12,7 +12,7 @@
 - [729 directive sentences with identified FOL fomulas](https://github.com/APIDirective/APIDirective.github.io/blob/master/empirical_research/729_directive_sentences_with_identified_FOL_fomulas.xlsx). Two of the authors annotate the atomic formulas implied in the 729 directive sentences independently. In this excel file, the column "text" represents the sentence, the column "doc_name" represents the API name. And the column "FOL_by_author_1", "FOL_by_author_2", represents two authors annotated result.
 
 ## Directive Sentence Classifier
-- [directive sentence classifier training data] https://github.com/APIDirective/APIDirective.github.io/blob/master/fast_text/classifier_train_data.txt. The training data for a directive sentence classifier includes 16292 sentences, which have 8,314 directive sentences and 7,978 non-directive sentences. 
+- [directive sentence classifier training data] (https://github.com/APIDirective/APIDirective.github.io/blob/master/fast_text/classifier_train_data.txt). The training data for a directive sentence classifier includes 16292 sentences, which have 8,314 directive sentences and 7,978 non-directive sentences. 
 
 ## Atomic Formula Extraction
 
