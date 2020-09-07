@@ -17,11 +17,11 @@
 ## Atomic Formula Extraction
 
 ### manually annotated data for training BERT-BiLSTM-CRF model
-- [valid annotation data](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/valid.json). The annotation data for entity recognization without negative data. The data is annotated by four master students manually. Each directive sentence is annotated by two annotators independently. If their annotators
+- [manually annotated data for training BERT-BiLSTM-CRF model](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/valid.json). The annotation data for entity recognization without negative data. The data is annotated by four master students manually. Each directive sentence is annotated by two annotators independently. If their annotators
 are different, one of the authors will join and resolve the conflict using the majority strategy. As a result, we obtained 3226 annotated directive sentences with 7,045 arguments.
 
 ### Automatically generated annotated data for training BERT-BiLSTM-CRF model
-- [auto extension data](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/train_data.json). The training data for entity recognization extended automatically. Based on the annotated sentences, we use a series of heuristic rules to generate more training data. Finally, we obtain 11,019 annotated directive sentences with 16,972 annotated arguments as the training data.
+- [Automatically generated annotated data for training BERT-BiLSTM-CRF model](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_recognization/train_data.json). The training data for entity recognization extended automatically. Based on the annotated sentences, we use a series of heuristic rules to generate more training data. Finally, we obtain 11,019 annotated directive sentences with 16,972 annotated arguments as the training data.
 
 ## Logical Relation Recognition
 - [51 linguistic patterns for conditional Structure Parsing](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_linking/sentence_pattern.xlsx). Conditional structure parsing is done by linguistic pattern matching. We defined 51 linguistic patterns to recognize the logical relations between the extracted atomic formulas. If the sentence matches more than one linguistic patterns, we parse it according to the most complete and concrete pattern, i.e., the pattern that has the most conditional conjunctions and the deepest nested structure.
