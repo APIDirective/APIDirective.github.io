@@ -28,3 +28,6 @@ are different, one of the authors will join and resolve the conflict using the m
 
 ## Argument Parsing
 - [Manually annotate 246 API related arguments for training SVM model](https://github.com/APIDirective/APIDirective.github.io/blob/master/entity_linking/manually_annotate_246_API_related_arguments_for_training_SVM_model.json). The training data is used to train an SVM model for the API linking. To prepare the training data we manually annotate 246 API related arguments from the annotated formulas in the empirical study.
+
+## Code Review Tasks RQ4 
+- [CodeReviewTasks](https://github.com/APIDirective/APIDirective.github.io/blob/master/CodeReview/Code%20Review%20Tasks.xlsx).
